@@ -1490,7 +1490,7 @@ h6 {
 }
 
 .mh-home .mh-header-info h4 {
-	font-size: 24px;
+	font-size: 21px;
 	line-height: 34px;
 	margin-bottom: 30px;
 	font-weight: 100;
@@ -1583,6 +1583,18 @@ h6 {
        ABOUT
     ==============
 */
+.tags {
+	background: #0bceaf;
+	padding: 3px 5px;
+	margin: 0 5px;
+	border-radius: 5px;
+	color: #fff;
+	opacity: 1;
+}
+.tags:hover {
+	color: #fff;
+	background: rgba(255, 255, 255, 0.3);
+}
 .mh-about .mh-about-inner {
 	padding-left: 50px;
 }
