@@ -1580,6 +1580,18 @@ h6 {
 
 /*
     ==============
+       Stacks
+    ==============
+*/
+.stack .item img {
+	height: 40px;
+	margin: 0 30px;
+	width: auto;
+	display: inline-block;
+}
+
+/*
+    ==============
        ABOUT
     ==============
 */
